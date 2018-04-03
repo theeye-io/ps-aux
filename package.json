@@ -1,6 +1,6 @@
 {
   "name": "theeye-ps-aux",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "Supplies process information via the os cli tools.",
   "main": "index.js",
   "scripts": {
