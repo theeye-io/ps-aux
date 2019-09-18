@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/theeye-io-team/ps-aux"
+    "url": "https://github.com/theeye-io/ps-aux"
   },
-  "homepage": "https://github.com/theeye-io-team/ps-aux",
+  "homepage": "https://github.com/theeye-io/ps-aux",
   "dependencies": {
     "table-parser": "^0.1.3"
   },
